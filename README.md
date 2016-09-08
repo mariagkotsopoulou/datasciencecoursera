@@ -1,3 +1,3 @@
-# datascience coursera
+# The Data Scientist’s Toolbox
 
-## This is the repository for the data science coursera course
+## This is the repository for the data scientist's toolbox coursera course
